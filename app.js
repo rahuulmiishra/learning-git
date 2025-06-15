@@ -6,7 +6,7 @@ console.log("Hello");
  * 1. you select what you want to commit
  *
  * 2. you locally save with a meessage
- *
+ *1
  * 3. you push to server (all your changes are safe)\\\
  *
  *
