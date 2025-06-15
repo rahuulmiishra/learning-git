@@ -1,4 +1,1 @@
-# learning-git
-
-Hello !!
-ASDASD
+This change is from 2 people
